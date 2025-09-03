@@ -1,0 +1,17 @@
+# Flight Reservation System Requirements
+# Python 3.6+ required
+
+# GUI Framework (Built-in with Python)
+# tkinter - included with Python standard library
+
+# Database (Built-in with Python)  
+# sqlite3 - included with Python standard library
+
+# For creating executable (.exe) file
+pyinstaller>=5.0
+
+# Optional: For better date handling
+# datetime - included with Python standard library
+
+# Note: This project uses only Python standard library modules
+# No external packages required for basic functionality
